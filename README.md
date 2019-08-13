@@ -1,5 +1,5 @@
 # Chat-App
-a real time chat application build with node.js 
+a real time chat application implemented in node.js. The app needs to add a username and room name to start chatting with your friends. 
 
 ## npm modules
 - socket.io .
